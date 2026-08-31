@@ -1,2 +1,3 @@
-# Sheet-Cleanse
-A tool which will help the user to clean there excel or google sheet (still on devlopment process)
+# Stone-Paper-Scissor
+this is a repository where the stone paper scissor game is created using python (cant accepting pull request....)
+
